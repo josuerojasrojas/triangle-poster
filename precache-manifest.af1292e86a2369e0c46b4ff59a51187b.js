@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/triangle-poster/static/js/runtime~main.60dd6c40.js"
   },
   {
-    "revision": "4bca4f0c3f1d34410057",
-    "url": "/triangle-poster/static/js/main.4bca4f0c.chunk.js"
+    "revision": "f7444d34061848dcc85c",
+    "url": "/triangle-poster/static/js/main.f7444d34.chunk.js"
   },
   {
     "revision": "6e96b77b8012de2696a9",
     "url": "/triangle-poster/static/js/2.6e96b77b.chunk.js"
   },
   {
-    "revision": "4bca4f0c3f1d34410057",
-    "url": "/triangle-poster/static/css/main.15ea11c4.chunk.css"
+    "revision": "f7444d34061848dcc85c",
+    "url": "/triangle-poster/static/css/main.08c533e6.chunk.css"
   },
   {
-    "revision": "9359b0fbe5c9be485c58bb9c5eac004b",
+    "revision": "90a0ff9331401e1ef1235e56de154cc2",
     "url": "/triangle-poster/index.html"
   }
 ];
